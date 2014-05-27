@@ -24,6 +24,7 @@ Software used:
 14. Git (VCS).
 15. Google Translate API (to translate the different languages from various news
 sources into English).
+16. Google Places API
 
 FAQ
 ---
