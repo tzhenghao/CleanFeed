@@ -6,6 +6,8 @@ Introduction
 Fetches news from all over the Internet and puts them together in a centralized
 feed for easy consumption.
 
+IMPORTANT: The technologies below are required to run the web app.
+
 Software used:
 -----------------
 1. Yeoman (web)
